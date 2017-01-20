@@ -4,7 +4,7 @@
   "description": "A blank module.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node -e \"process.exit(typeof(require('./'))!=='object')\""
   },
   "repository": {
     "type": "git",
