@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/shamasis/sannata.svg?branch=develop)](https://travis-ci.org/shamasis/sannata)
+
 # sannata
 
 Sannata is a blank module. It exports a blank object. Trust me, it has it's use.
